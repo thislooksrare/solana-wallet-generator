@@ -30,7 +30,7 @@ npm start
 
 ## buy me a coffee
 
-you can send Solana to 31b6WoZ1H8Lm8t1zwMEigJsBg6wqq3iRvwipATiAmARt (see the last few digits, anon? I AM ART!)
+you can send Solana to 31b6WoZ1H8Lm8t1zwMEigJsBg6wqq3iRvwipAT***iAmARt*** (see the last few digits, anon? **i am art**)
 
 
 

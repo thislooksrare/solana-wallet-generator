@@ -4,68 +4,10 @@ const solanaWeb3 =  require("@solana/web3.js");
 const Solana = new solanaWeb3.Connection("https://ssc-dao.genesysgo.net/");
 
 // IF YOU ARE A NOOB JUST EDIT THIS PART
-const wordsStart = ["art", "1312", "star", "asdf",
-"hipp", 
-"dope",
-"dona",
-"don4",
-"d0n4",
-"d0na",
-"give",
-"love",
-"best",
-"cool",
-"kiss",
-"fair",
-"holy",
-"hope",
-"like",
-"real",
-"play",
-"soul",
-"safe",
-"nice",
-"pass",
-"join",
-"zzzz",
-"meow",
-"miau",
-"anal",
-"1234",
-"1312",
-"porn",
-"yyyy",
-"send",
-"help",
-"luck",
-"help",
-"dark",
-"xxxx",
-"0000",
-"aaaa",
-"acab",
-"w3ta", 
- "l00k",
- "rare", 
- "noob", 
- "nuts",  
- "suck", 
- "meta", 
- "1337", 
- "make",
- "fuck",
- "doge", 
- "finn", 
- "art", 
- "pay", 
- "sex", 
- "miau", 
- "katz", 
- "look"]; // words to look for at the beginning of the address
-const wordsInclude = ["katze"]; // words to look for in the complete address
+const wordsStart = ["art", "1312", "look"]; // words to look for at the beginning of the address
+const wordsInclude = ["looksrare"]; // words to look for in the complete address
 const stopAfter = 100; // setting this to 0 deactivates the limit
 const outputDirectory = "./output"; // output directory WITHOUT "/" at the end
-
 
 // FUNCTION PART
 

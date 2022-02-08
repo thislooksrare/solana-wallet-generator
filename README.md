@@ -1,5 +1,7 @@
 ## what it does
 
+![](screenshot.png)
+
 this tool comes in handy if you want to start a solana project and want a customized solana address.
 it basically generates addresses and outputs you the credentials for accounts that have a matching name.
 Usually, Solana addresses are cut between the first 4 and the last 4 digits.

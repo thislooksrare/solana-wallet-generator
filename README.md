@@ -27,11 +27,10 @@ then
 npm start
 ```
 
-## buy me a coffee
+## faster alternatives
 
-you can send Solana to 31b6WoZ1H8Lm8t1zwMEigJsBg6wqq3iRvwipAT***iAmARt*** (see the last few digits, anon? **i am art**)
-
-
+you should check out this repo for GPU based address gathering
+https://github.com/mcf-rocks/solanity
 
 
 ___
